@@ -4,3 +4,9 @@
 # that many times. The steps are in README.md.
 #
 # Write your code below this comment.
+number  = int(input("Enter a whole number: "))
+pharse = input("Enter a pharse: ")
+result = pharse * number
+print(result)
+print("HI!")
+print("SUCCESS!")
